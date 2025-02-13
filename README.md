@@ -1,1 +1,1 @@
-# Library for the Data Structures and Algorithms Track at GDG Babcock University
+# Secondary Knowledge Base for the DSA Track at GDG Babcock
