@@ -1,0 +1,16 @@
+# test files and folders
+# **test**
+
+# temporary files
+**/**tmp**
+
+# random file stuff
+**/.DS_Store
+**/.swp
+
+# other stuff
+**/*~
+**/*main*
+**/*__pycache__*
+**/*.o
+**/*.pyc
